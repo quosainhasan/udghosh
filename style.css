@@ -80,6 +80,11 @@ a{
 }
 
 
+.mob{
+    font-size: 15px !important;
+}
+
+
 @media screen and (max-width:799px) {
     .dest{
         display: none;
