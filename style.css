@@ -90,6 +90,10 @@ a{
     .dest{
         display: none;
     }
+   .logo{
+        width: 60%;
+        height: 60%;
+    }
 }
 
 @media screen and (min-width:800px){
