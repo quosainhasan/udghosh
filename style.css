@@ -79,8 +79,8 @@ a{
 }
 
 .footer{
-    color: var(--secondaryColor) !important;
-    background-color: var(--btnColor);
+    color: var(--mainText) !important;
+    background-color: var(--mainColor);
 }
 
 .mob{
