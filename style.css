@@ -51,7 +51,7 @@ p{
 }
 
 nav{
-    background: var(--mainText);
+    background: var(--mainColor);
 }
 
 ul>li>a{
